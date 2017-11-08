@@ -1,0 +1,76 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Laptop Gaming ASUS ROG GL553VE-FY022",
+      "description": "ROG Strix GL553 vine cu Windows 10 Home pre-instalat si include un procesorul quad-core Intel® Core™ i7 de Generatia a 6-a, oplaca video dedicata NVIDIA GeForce GTX 1050 Ti si suport complet full Microsoft® DirectX® 12 pentru un nivel ridicat deperformanta si imagini de o calitate perfecta in jocuri.",
+      "price": "$1.799",
+      "votes": 2
+    },
+    {
+      "id": 2,
+      "name": "Laptop Lenovo IdeaPad 100-15IBD",
+      "description": "Utilizati vreodata laptopul la o cafenea? Poate fi foarte stresant sa plecati de la masa fara a va lua si laptopul. Din fericire, modelul Ideapad 100 este compatibil cu cablurile Kensington lock MiniSaver. Aceste cabluri rezistente va permit sa fixati dispozitivul pe un obiect greu sau care nu poate fi miscat.",
+      "price": "$799",
+      "votes": 2
+    },
+    {
+      "id": 3,
+      "name": "Laptop Acer Aspire A314-31-C4Z5",
+      "description": "Modelul delicat de perie cu par incrucisat ofera un finisaj tactil frumos primit.Touchpad-ul Precision este mai receptiv decat touchpad-urile traditionale, ajutandu-va sa lucrati mai eficient.Mentineti un semnal fara fir puternic si consistent cu antena wireless 802.11ac amplasata strategic.",
+      "price": "$499",
+      "votes": 2
+    },
+    {
+      "name": "Garmin",
+      "description": "Smartwatch",
+      "price": "300 $",
+      "votes": 3,
+      "id": 4
+    },
+    {
+      "votes": 1,
+      "id": 5
+    },
+    {
+      "name": "Bla bla",
+      "description": "Bla bla bla",
+      "price": "2",
+      "votes": 0,
+      "id": 6
+    },
+    {
+      "votes": 0,
+      "name": "Nume produs",
+      "id": 7
+    },
+    {
+      "name": "ahsjdkashdkjh",
+      "description": "adksajdlkasjldkj",
+      "price": "fdsfkjhdskfjh",
+      "votes": 2,
+      "id": 8
+    },
+    {
+      "votes": 0,
+      "name": "a",
+      "id": 9
+    },
+    {
+      "votes": 0,
+      "id": 10
+    },
+    {
+      "votes": 0,
+      "name": "a",
+      "price": "1",
+      "id": 11
+    },
+    {
+      "name": "a",
+      "votes": 0,
+      "price": "12",
+      "id": 12
+    }
+  ]
+}
